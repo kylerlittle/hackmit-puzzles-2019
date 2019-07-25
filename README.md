@@ -2,7 +2,12 @@
 
 Since 2014, HackMIT has released an annual admissions puzzle, similar to an online puzzlehunt that guarantees admission to the first 50 teams that solve them. Each year has a different theme, and this year's theme was the Avengers! 
 
-For the past 3 years, my team has attempted solving them. In 2017, we solved them and made the top 50. In 2018, we got stuck on the last puzzle and unfortunately did not make it. In 2019, we solved them and made the top 50. Regardless of the result, the experience is extremely fun, and we applaud the HackMIT organizers for going to such effort to make these puzzles. Despite how frustrating they can be at times, we appreciate all of their hard work; it makes for quite an amazing experience. 
+For the past 3 years, my team has attempted solving them. Here are our results:
+- 2017 -- we solved them and made the top 50
+- 2018 -- we got stuck on the last puzzle and unfortunately did not make it
+- 2019 -- we solved them and made the top 50
+
+No matter the result, the experience is extremely fun and worth the countless hours spent solving them. We applaud the HackMIT organizers for going to such effort to make these puzzles. Despite how frustrating solving them can be at times, we appreciate all of the hard work required to make them. It's an amazing experience.
 
 This year, we decided to do a write-up of our experience and how we solved the puzzles.
 
